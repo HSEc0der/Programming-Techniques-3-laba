@@ -1,3 +1,9 @@
+/**
+* @file
+* @brief Вспомогательная функция
+* @author Фомин Андрей
+*/
+
 #pragma once
 #include "Header.h"
 #include "HashTable.h"
